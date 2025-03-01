@@ -7,17 +7,11 @@ const PROPERTY_PREFIX := "_"
 
 
 @export_group("Settings")
-# TODO Change to custom Resource
-@export var predefined_expressions:Dictionary
 var expressions: Array[ExpressionNode] = []
 #@export_group("", "")
 
 func _ready() -> void:
 	_all_children_to_properties()
-
-func _add_predefined_expressions() -> void:
-	#TODO
-	pass
 
 func _all_children_to_properties() -> void:
 	expressions.clear()
