@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwy66t5uixytw"
-path="res://.godot/imported/StrExpression.svg-445fed18426a5b4d644e27aec84a0911.ctex"
+path="res://.godot/imported/StrExpression.svg-11b9aa5372acbad161b66157dddb2793.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SimonsExpressions/Icons/StrExpression.svg"
-dest_files=["res://.godot/imported/StrExpression.svg-445fed18426a5b4d644e27aec84a0911.ctex"]
+source_file="res://addons/simonsexpressions/Icons/StrExpression.svg"
+dest_files=["res://.godot/imported/StrExpression.svg-11b9aa5372acbad161b66157dddb2793.ctex"]
 
 [params]
 

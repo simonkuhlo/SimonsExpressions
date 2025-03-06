@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buh000xkbe0ul"
-path="res://.godot/imported/BoolExpression.svg-7ae810720b6bb2e488bb95ccf35b988a.ctex"
+path="res://.godot/imported/BoolExpression.svg-8cae445bf629914bcb47a4160aa0599b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SimonsExpressions/Icons/BoolExpression.svg"
-dest_files=["res://.godot/imported/BoolExpression.svg-7ae810720b6bb2e488bb95ccf35b988a.ctex"]
+source_file="res://addons/simonsexpressions/Icons/BoolExpression.svg"
+dest_files=["res://.godot/imported/BoolExpression.svg-8cae445bf629914bcb47a4160aa0599b.ctex"]
 
 [params]
 

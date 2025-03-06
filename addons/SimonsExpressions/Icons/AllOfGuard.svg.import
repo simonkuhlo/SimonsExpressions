@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmcnp5kiphmwj"
-path="res://.godot/imported/AllOfGuard.svg-1256820aa123517356fc2c833debd8d1.ctex"
+path="res://.godot/imported/AllOfGuard.svg-8cfda215e70ef3958613eacc00624960.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SimonsExpressions/Icons/AllOfGuard.svg"
-dest_files=["res://.godot/imported/AllOfGuard.svg-1256820aa123517356fc2c833debd8d1.ctex"]
+source_file="res://addons/simonsexpressions/Icons/AllOfGuard.svg"
+dest_files=["res://.godot/imported/AllOfGuard.svg-8cfda215e70ef3958613eacc00624960.ctex"]
 
 [params]
 

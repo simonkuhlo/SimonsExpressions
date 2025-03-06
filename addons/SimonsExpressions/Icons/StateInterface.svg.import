@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lwb5x20t0h0b"
-path="res://.godot/imported/StateInterface.svg-2c28f8ae2c512f00f5ea55a32910f5f1.ctex"
+path="res://.godot/imported/StateInterface.svg-31d848c7fa9ceea3988161a42043750c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SimonsExpressions/Icons/StateInterface.svg"
-dest_files=["res://.godot/imported/StateInterface.svg-2c28f8ae2c512f00f5ea55a32910f5f1.ctex"]
+source_file="res://addons/simonsexpressions/Icons/StateInterface.svg"
+dest_files=["res://.godot/imported/StateInterface.svg-31d848c7fa9ceea3988161a42043750c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br10nt27le5be"
-path="res://.godot/imported/ExpressionManager.svg-fa2de8795c381e6b6ef87caa95beecbe.ctex"
+path="res://.godot/imported/ExpressionManager.svg-9277c263730ebd48651e02ebadd3b969.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/SimonsExpressions/Icons/ExpressionManager.svg"
-dest_files=["res://.godot/imported/ExpressionManager.svg-fa2de8795c381e6b6ef87caa95beecbe.ctex"]
+source_file="res://addons/simonsexpressions/Icons/ExpressionManager.svg"
+dest_files=["res://.godot/imported/ExpressionManager.svg-9277c263730ebd48651e02ebadd3b969.ctex"]
 
 [params]
 
